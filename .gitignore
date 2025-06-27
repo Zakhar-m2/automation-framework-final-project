@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Playwright test results
+allure-results/
+allure-report/
+test-results/
+
+# Playwright storage state and auth
+.auth/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Env files
+.env 
